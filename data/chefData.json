@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PLCh-1",
+    "name": "John Moris",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(John Moris) is one of the main reasons why the restaurant (McDonald's) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  },
+  {
+    "id": "PLCh-2",
+    "name": "Jane Doe",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  },
+  {
+    "id": "PLCh-3",
+    "name": "Jane Doe",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  },
+  {
+    "id": "PLCh-4",
+    "name": "Jane Doe",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  },
+  {
+    "id": "PLCh-5",
+    "name": "Jane Doe",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  },
+  {
+    "id": "PLCh-6",
+    "name": "Jane Doe",
+    "picture": "imageUrl",
+    "banner": "bannerUrl",
+    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "likes": 888,
+    "numberOfRecipes": 5,
+    "experience": 18
+  }
+]
