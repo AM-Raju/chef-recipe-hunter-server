@@ -3,60 +3,60 @@
     "id": "FLCh-1",
     "name": "John Moris",
     "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(John Moris) is one of the main reasons why the restaurant (McDonald's) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
+    "banner": "https://ibb.co/BBjtkgT",
+    "shortBio": "John Moris is one of the main reasons why the restaurant McDonald's is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
     "likes": 888,
-    "numberOfRecipes": 5,
-    "experience": 18
+    "numberOfRecipes": 3,
+    "experience": 10
   },
   {
     "id": "FLCh-2",
-    "name": "Jane Doe",
-    "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
-    "likes": 888,
-    "numberOfRecipes": 5,
-    "experience": 18
+    "name": "Ben Ryan",
+    "picture": "https://i.ibb.co/qdSY9yG/2.jpg",
+    "banner": "https://ibb.co/NTFRCfG",
+    "shortBio": "Sous Chef Ben Ryan is the man behind the flavor of San Francisco's well-renowned Chilli Hut. His prior experience in Asian cuisine is evident in every bite he serves. Heavy on flavor and light on calories, his dishes are always fresh and delicious.",
+    "likes": 1520,
+    "numberOfRecipes": 8,
+    "experience": 15
   },
   {
     "id": "FLCh-3",
-    "name": "Jane Doe",
-    "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
-    "likes": 888,
+    "name": "Bill Holmes",
+    "picture": "https://i.ibb.co/NVKmXsg/3.jpg",
+    "banner": "https://ibb.co/FgtTCXc",
+    "shortBio": "Chef Bill Holmes is a well-renowned pastry chef in California. She first rose to prominence when his stake was awarded Best of Show at the San Diego Food and Beverage Festival. Since then she has been mastering her craft and designing tasty treats for the people.",
+    "likes": 1200,
     "numberOfRecipes": 5,
-    "experience": 18
+    "experience": 25
   },
   {
     "id": "FLCh-4",
-    "name": "Jane Doe",
-    "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
-    "likes": 888,
-    "numberOfRecipes": 5,
-    "experience": 18
+    "name": "Bob Williams",
+    "picture": "https://i.ibb.co/RBT85L7/4.jpg",
+    "banner": "https://ibb.co/Y7zy5ym",
+    "shortBio": "Exec Chef Bob Williams is the mastermind behind the menu of LS Buffet in North Carolina. With 13 years of experience as well as a degree from the Culinary Academy of New York, he is an established name in the culinary world.",
+    "likes": 3000,
+    "numberOfRecipes": 7,
+    "experience": 8
   },
   {
     "id": "FLCh-5",
-    "name": "Jane Doe",
-    "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
-    "likes": 888,
-    "numberOfRecipes": 5,
+    "name": "Thomas Hanson",
+    "picture": "https://i.ibb.co/6y6CtmP/5.jpg",
+    "banner": "https://ibb.co/2qtP2Cn",
+    "shortBio": "Thomas Hanson is the executive chef at Salad Bar, a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Pacific Northwest",
+    "likes": 2273,
+    "numberOfRecipes": 4,
     "experience": 18
   },
   {
     "id": "FLCh-6",
-    "name": "Jane Doe",
-    "picture": "https://i.ibb.co/vZSSkfm/jhon-morich.jpg",
-    "banner": "bannerUrl",
-    "shortBio": "(Chef name) is one of the main reasons why the restaurant (Restaurant name) is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town.",
-    "likes": 888,
-    "numberOfRecipes": 5,
-    "experience": 18
+    "name": "Jacob Russo",
+    "picture": "https://i.ibb.co/vLhmwVH/6.jpg",
+    "banner": "https://ibb.co/BPX3Njv",
+    "shortBio": "Chef Jacob Russo is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
+    "likes": 1950,
+    "numberOfRecipes": 3,
+    "experience": 20
   }
 ]
